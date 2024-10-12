@@ -28,3 +28,11 @@ We worked with a dataset containing key information about Netflix titles, includ
 ## Analysis and Findings
 
 Our analysis delves into various aspects of Netflix's catalog and provides insights into how content offerings have shifted. Detailed visualizations and insights will be shared in the upcoming sections.
+
+## Interactive Dashboard
+
+You can view our full analysis and visualizations on Google Looker Studio by following [this link](https://lookerstudio.google.com/s/i-n-Nhf793Q).
+
+---
+
+Feel free to update the `https://lookerstudio.google.com/s/i-n-Nhf793Q` with your actual Google Looker dashboard URL!
